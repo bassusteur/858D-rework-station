@@ -14,5 +14,6 @@ The inside of the heat gun has this small board connecting everything with diffe
 
 These 3 connectors are in order:Live and Neutral in, transformer primary winding wires, heat gun resistor leads  
 <img src="https://github.com/bassusteur/858D-hot-air-station/assets/42449683/98a184ce-519f-450e-89a6-fd7119d54bf8" width=30% height=30%>
-    
- 
+
+The main MCU is designed my sino mcu in china, thankfully i found the datasheet [here](https://www.sinomcu.com/upload/serviceSupport/serviceFile/usermanual/MC51F003A4%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8CV1.4.pdf):
+<img src="https://github.com/bassusteur/858D-hot-air-station/assets/42449683/46fdfadd-cc37-45de-87ba-e955419c2233" width=10% height=10%>
